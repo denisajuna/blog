@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: Blog
+  site: 'https://denisajuna.github.io/blog/'
   base: '/'
   trailingSlash: false
 
